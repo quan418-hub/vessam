@@ -1,0 +1,21 @@
+# 深度学习框架
+torch
+torchvision
+torch-geometric
+
+# 数值与图像处理
+numpy
+opencv-python
+scikit-image
+scipy
+scikit-learn
+pillow
+matplotlib
+networkx
+
+# 数据与工具
+msgpack
+tqdm
+
+# 演示脚本（demo_sam_infer.py）需要
+segment-anything
